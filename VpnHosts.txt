@@ -1,0 +1,5 @@
+us-east.privateinternetaccess.com
+us-midwest.privateinternetaccess.com
+us-florida.privateinternetaccess.com
+ca-toronto.privateinternetaccess.com
+ca.privateinternetaccess.com
